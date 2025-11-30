@@ -7,3 +7,9 @@ https://github.com/Nurefsan3/Smart_sleep_system/blob/main/Proposal_new.pdf
 
 2. System Line Diagram (Pin Connections)
 The external devices and microcontroller connections are shown in the following diagram:
+https://github.com/Nurefsan3/Smart_sleep_system/blob/main/EE304_Diagram.png
+
+3. Register-Level GPIO Implementation
+All digital GPIOs required for the project have been configured manually using CRL/CRH, ODR, IDR, BSRR, and BRR registers.
+The full implementation can be found in:
+
