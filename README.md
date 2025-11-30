@@ -14,9 +14,12 @@ All digital GPIOs required for the project have been configured manually using C
 The full implementation can be found in:
 https://github.com/Nurefsan3/Smart_sleep_system/blob/main/main_project.c
 
-===============================================================================================================================================
+=========================================================================================
 
 Group Members:
+
 Nurefşan Pir
+
 Sena Nur Öztürk
+
 Berfin Özer
