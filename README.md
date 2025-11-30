@@ -18,8 +18,8 @@ https://github.com/Nurefsan3/Smart_sleep_system/blob/main/main_project.c
 
 Group Members:
 
-Nurefşan Pir
+Nurefşan Pir (2211011035)
 
-Sena Nur Öztürk
+Sena Nur Öztürk (2211011061)
 
-Berfin Özer
+Berfin Özer (2211011042)
